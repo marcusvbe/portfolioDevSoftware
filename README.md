@@ -18,7 +18,7 @@
   
     - [Visão do projeto](#visão-do-projeto)
     - [Tecnologias utilizadas](#tecnologias-utilizadas)
-    - [Minhas contribuições](#minhas-contribuições)
+    - [Contribuições pessoais](#contribuições-pessoais)
     - [Aprendizado](#aprendizado)
   </details>
 
@@ -26,11 +26,11 @@
 
 - [2º Semestre • 2/2023 • SAT - Sistema acadêmico de TI](#2º-semestre--22023--sat---sistema-acadêmico-de-ti)
   <details>
-    <summary>Detalhes</summary>
+    <summary>Informações</summary>
   
     - [Visão do projeto](#visão-do-projeto-1)
     - [Tecnologias utilizadas](#tecnologias-utilizadas-1)
-    - [Minhas contribuições](#minhas-contribuições-1)
+    - [Contribuições pessoais](#contribuições-pessoais-1)
     - [Aprendizado](#aprendizado-1)
   </details>
 
@@ -38,11 +38,11 @@
 
 - [3º Semestre • 1/2024 • Crtl A](#3º-semestre--32024--crtl-a)
   <details>
-    <summary>Detalhes</summary>
+    <summary>Informações</summary>
   
     - [Visão do projeto](#visão-do-projeto-2)
     - [Tecnologias utilizadas](#tecnologias-utilizadas-2)
-    - [Minhas contribuições](#minhas-contribuições-2)
+    - [Contribuições pessoais](#contribuições-pessoais-2)
     - [Aprendizado](#aprendizado-2)
   </details>
 
