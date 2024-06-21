@@ -19,7 +19,7 @@
     - [Visão do projeto](#visão-do-projeto)
     - [Tecnologias utilizadas](#tecnologias-utilizadas)
     - [Minhas contribuições](#minhas-contribuições)
-    - [Aprendizados](#aprendizados)
+    - [Aprendizado](#aprendizado)
   </details>
 
 ### Segundo semestre
@@ -30,8 +30,8 @@
   
     - [Visão do projeto](#visão-do-projeto-1)
     - [Tecnologias utilizadas](#tecnologias-utilizadas-1)
-    - [Minhas contribuições](#contribuições-1)
-    - [Aprendizados](#aprendizados-1)
+    - [Minhas contribuições](#minhas-contribuições-1)
+    - [Aprendizado](#aprendizado-1)
   </details>
 
 ### Terceiro semestre
@@ -42,8 +42,8 @@
   
     - [Visão do projeto](#visão-do-projeto-2)
     - [Tecnologias utilizadas](#tecnologias-utilizadas-2)
-    - [Minhas contribuições](#contribuições-2)
-    - [Aprendizados](#aprendizados-2)
+    - [Minhas contribuições](#minhas-contribuições-2)
+    - [Aprendizado](#aprendizado-2)
   </details>
 
 ---
