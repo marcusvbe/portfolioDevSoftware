@@ -36,7 +36,7 @@
 
 ### Terceiro semestre
 
-- [3º Semestre • 1/2024 • Crtl A](#3º-semestre--32024--crtl-a)
+- [3º Semestre • 1/2024 • Crtl A](#3º-semestre--12024--crtl-a)
   <details>
     <summary>Informações</summary>
   
@@ -156,7 +156,7 @@ Minha participação neste projeto esteve mais concentrada no back-end, desenvol
 
 ---
 
-### 3º Semestre • 3/2024 • Crtl A
+### 3º Semestre • 1/2024 • Crtl A
 
 Cliente externo: Youtan.
 
