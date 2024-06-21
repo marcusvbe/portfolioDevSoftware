@@ -102,6 +102,7 @@ Dados da Covid – Projeto Integrado (API) 01/2023
  
 
 <h6 align="center"> Link do projeto: https://github.com/api-fatec-primeiro-semestre/api-primeiro-semestre </h6>
+
 ---
  
 ### 2º Semestre • 2/2023 • SAT - Sistema de gestão de chamados de software
