@@ -60,7 +60,7 @@
 
 ### 1º Semestre • 01/2023 • Dados Covid-19
 
-Cliente: Fatec São José dos Campos - Prof. Jessen Vidal.
+Cliente interno: Fatec São José dos Campos - Prof. Jessen Vidal.
 
 ![Video consulta-vid](https://github.com/api-fatec-primeiro-semestre/api-primeiro-semestre/blob/main/Wireframe.gif))
 
@@ -72,7 +72,7 @@ Dados da Covid – Projeto Integrado (API) 01/2023
 <p>O site permite analisar e comparar alguns dados de saúde do sistema Datasus (Tabnet) a fim de identificar possíveis impactos da Covid longa em 3 cidades do Vale do Paraíba: São José dos Campos, Jacareí e Taubaté. 
 </p>
 
-#### Tecnologias adotadas
+#### Tecnologias utilizadas
 
 - Python.
 - Flask.
@@ -105,7 +105,7 @@ Dados da Covid – Projeto Integrado (API) 01/2023
 
 ### 2º Semestre • 2/2023 • SAT - Sistema de gestão de chamados de software 
 
-Cliente: Fatec São José dos Campos - Prof. Jessen Vidal.
+Cliente interno: Fatec São José dos Campos - Prof. Jessen Vidal.
 
 Demonstrações do sistema com 3 tipos de acesso:
 - Usuário:
@@ -124,7 +124,7 @@ Sistema de Gestão de Chamados (API) 02/2023
 <p>O projeto integrado do 2º semestre de 2023 consistiu na criação de uma aplicação de gestão de chamados de TI. Nossa equipe optou por desenvolvê-la direcionada a escolas e instituições de ensino para a gestão de chamados relativos a problemas de software.</p>
 <p>As tecnologias definidas para o projeto foram Node.js, JavaScript, Typescript, React e banco de dados relacional.</p>
 
-#### Tecnologias adotadas
+#### Tecnologias utilizadas
 
 - Node.js.
 - TypeScript. 
@@ -153,5 +153,54 @@ Minha participação neste projeto esteve mais concentrada no back-end, desenvol
 
 
 <h6 align="center"> Link do projeto: https://github.com/FocusQuest/FocusQuestAPI</h6>
+
+---
+
+### 3º Semestre • 3/2024 • Crtl A
+
+Cliente externo: Youtan.
+
+https://github.com/equipe-javali/API_3/assets/110677265/647cf17a-d783-4200-a996-2866f25f72ab
+
+#### Visão do projeto
+
+<p>Projeto desenvolvido no 3º semestre do curso de Desenvolvimento de Software Multiplataforma da Fatec São José dos Campos - Prof. Jessen Vidal.</p>
+<p>O projeto consistiu na criação de uma aplicação web para o monitoramento dos ativos (tangíveis e intangíveis) de uma empresa, com informações sobre o valor atual do ativo, onde ele está no momento, seu responsável, manutenções, entre outros.</p>
+
+
+#### Tecnologias utilizadas
+
+- Figma.
+- Git.
+- GitHub.
+- TypeScript.
+- Java.
+- Jira.
+- PostgreSQL.
+- Supabase.
+- React.
+- Spring.
+
+#### Contribuições
+
+- Criação de endpoints e operações de CRUD.
+- Criação do banco de dados físico.
+- Integração do backend com o banco de dados.
+
+#### Aprendizados
+
+- Soft Skills:
+  - Trabalho em equipe, gestão do tempo para lidar com demandas mais intensas.
+  - Resiliência: devido a dificuldades em uma das sprints, tivemos que nos reorganizar solucionar os problemas e apresentar entregas satisfatórias dentro do cronograma.
+  - Aprimoramento de processo no desenvolvimento do projeto: seguir um padrão na criação de branches e commits no Github.
+  
+- Hard Skills:
+  - Uso da linguagem Java e framework Spring.
+  - Uso de banco de dados PosgreSQL e do Supabase (banco de dados Postgre on-line).
+  - Melhora nos conhecimentos na criação de APIs (interface de programação de aplicações).
+
+ 
+<h6 align="center"> Link do projeto: https://github.com/equipe-javali/API_3</h6>
+
 
 ---
