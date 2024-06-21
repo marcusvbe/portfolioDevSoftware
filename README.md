@@ -82,12 +82,12 @@ Dados da Covid – Projeto Integrado (API) 01/2023
 - Figma.
 - GitHub.
 
-#### Minhas contribuições
+#### Contribuições pessoais
 
 - Construção de páginas do wireframe do projeto.
 - Criação das instruções para execução do projeto.
 
-#### Aprendizados
+#### Aprendizado
 
 - Soft Skills:
   - Trabalhar em equipe e gerenciar o tempo.
@@ -135,11 +135,11 @@ Sistema de Gestão de Chamados (API) 02/2023
 - React.
 
 
-#### Minhas contribuições
+#### Contribuições pessoais
 
 Minha participação neste projeto esteve mais concentrada no back-end, desenvolvendo a API, o que incluiu a criação de rotas e operações de CRUD, assim como a lógica de funcionamento do sistema, como as mudanças de status do chamado refletindo ações do cliente, do técnico e do admin. Também fiz integrações com o front-end.
 
-#### Aprendizados
+#### Aprendizado
 
 - Soft Skills:
   - Trabalho em equipe e organização de tarefas: desenvolvido devido à função de _master_.
@@ -181,13 +181,13 @@ https://github.com/equipe-javali/API_3/assets/110677265/647cf17a-d783-4200-a996-
 - React.
 - Spring.
 
-#### Minhas contribuições
+#### Contribuições pessoais
 
 - Criação de endpoints e operações de CRUD.
 - Criação do banco de dados físico.
 - Integração do backend com o banco de dados.
 
-#### Aprendizados
+#### Aprendizado
 
 - Soft Skills:
   - Trabalho em equipe, gestão do tempo para lidar com demandas mais intensas.
