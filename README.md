@@ -18,7 +18,7 @@
   
     - [Visão do projeto](#visão-do-projeto)
     - [Tecnologias utilizadas](#tecnologias-utilizadas)
-    - [Minhas contribuições](#contribuições)
+    - [Minhas contribuições](#minhas-contribuições)
     - [Aprendizados](#aprendizados)
   </details>
 
