@@ -94,10 +94,11 @@ Dados da Covid – Projeto Integrado (API) 01/2023
   - Falar em público nas apresentações das sprints do projeto.
 
 - Hard Skills:
-  - Usar a linguagem Python.
-  - Usar o MySQL.
-  - Manipular o Figma.
-  - Utilizar o Github.
+  - Usar a linguagem Python: sei fazer com autonomia.
+  - Usar o MySQL: sei fazer com ajuda.
+  - Manipular o Figma: sei fazer com autonomia.
+  - Utilizar o Github: sei fazer com ajuda.
+  - Metodologia Ágil SCRUM: sei fazer com ajuda.
  
 
 <h6 align="center"> Link do projeto: https://github.com/api-fatec-primeiro-semestre/api-primeiro-semestre </h6>
@@ -146,10 +147,11 @@ Minha participação neste projeto esteve mais concentrada no back-end, desenvol
   - Falar em público: desenvolvido devido às apresentações das sprints.
   
 - Hard Skills:
-  - Programação em Typescript.
-  - Desenvolvimento com o ORM Prisma.
-  - Desenvolvimento de endpoints, operações de CRUD
-  - Uso de submódulos no Github.
+  - Programação em Typescript: sei fazer com autonomia.
+  - Desenvolvimento com o ORM Prisma: sei fazer com autonomia.
+  - Desenvolvimento de endpoints, operações de CRUD: sei fazer com autonomia.
+  - Uso de submódulos no Github: sei fazer com ajuda.
+  - Metodologia Ágil SCRUM: sei fazer com ajuda.
 
 
 <h6 align="center"> Link do projeto: https://github.com/FocusQuest/FocusQuestAPI</h6>
@@ -195,10 +197,10 @@ https://github.com/equipe-javali/API_3/assets/110677265/647cf17a-d783-4200-a996-
   - Aprimoramento de processo no desenvolvimento do projeto: seguir um padrão na criação de branches e commits no Github.
   
 - Hard Skills:
-  - Uso da linguagem Java e framework Spring.
-  - Uso de banco de dados PosgreSQL e do Supabase (banco de dados Postgre on-line).
-  - Melhora nos conhecimentos na criação de APIs (interface de programação de aplicações).
-
+  - Uso da linguagem Java e framework Spring: sei fazer com ajuda.
+  - Uso de banco de dados PosgreSQL e do Supabase (banco de dados Postgre on-line): sei fazer com autonomia.
+  - Melhora nos conhecimentos na criação de APIs (interface de programação de aplicações): sei fazer com autonomia.
+  - Metodologia Ágil SCRUM: sei fazer com autonomia.
  
 <h6 align="center"> Link do projeto: https://github.com/equipe-javali/API_3</h6>
 
