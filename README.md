@@ -12,7 +12,7 @@
 
 ### Primeiro semestre
 
-- [1º Semestre • 1/2023 • Dados covid](#1º-semestre--012023--dados-covid-19)
+- [1º Semestre • 1/2023 • Dados da Covid-19](#1º-semestre--012023--dados-covid-19)
   <details>
     <summary>Informações</summary>
   
