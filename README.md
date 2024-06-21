@@ -18,7 +18,7 @@
   
     - [Visão do projeto](#visão-do-projeto)
     - [Tecnologias utilizadas](#tecnologias-utilizadas)
-    - [Contribuições](#contribuições)
+    - [Minhas contribuições](#contribuições)
     - [Aprendizados](#aprendizados)
   </details>
 
@@ -30,7 +30,7 @@
   
     - [Visão do projeto](#visão-do-projeto-1)
     - [Tecnologias utilizadas](#tecnologias-utilizadas-1)
-    - [Contribuições](#contribuições-1)
+    - [Minhas contribuições](#contribuições-1)
     - [Aprendizados](#aprendizados-1)
   </details>
 
@@ -42,7 +42,7 @@
   
     - [Visão do projeto](#visão-do-projeto-2)
     - [Tecnologias utilizadas](#tecnologias-utilizadas-2)
-    - [Contribuições](#contribuições-2)
+    - [Minhas contribuições](#contribuições-2)
     - [Aprendizados](#aprendizados-2)
   </details>
 
@@ -82,7 +82,7 @@ Dados da Covid – Projeto Integrado (API) 01/2023
 - Figma.
 - GitHub.
 
-#### Contribuições
+#### Minhas contribuições
 
 - Construção de páginas do wireframe do projeto.
 - Criação das instruções para execução do projeto.
@@ -135,7 +135,7 @@ Sistema de Gestão de Chamados (API) 02/2023
 - React.
 
 
-#### Contribuições
+#### Minhas contribuições
 
 Minha participação neste projeto esteve mais concentrada no back-end, desenvolvendo a API, o que incluiu a criação de rotas e operações de CRUD, assim como a lógica de funcionamento do sistema, como as mudanças de status do chamado refletindo ações do cliente, do técnico e do admin. Também fiz integrações com o front-end.
 
@@ -181,7 +181,7 @@ https://github.com/equipe-javali/API_3/assets/110677265/647cf17a-d783-4200-a996-
 - React.
 - Spring.
 
-#### Contribuições
+#### Minhas contribuições
 
 - Criação de endpoints e operações de CRUD.
 - Criação do banco de dados físico.
