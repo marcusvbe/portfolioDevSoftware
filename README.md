@@ -62,7 +62,7 @@
 
 Cliente interno: Fatec São José dos Campos - Prof. Jessen Vidal.
 
-![Video consulta-vid](https://github.com/api-fatec-primeiro-semestre/api-primeiro-semestre/blob/main/Wireframe.gif))
+![Video consulta-vid](https://github.com/api-fatec-primeiro-semestre/api-primeiro-semestre/blob/main/Wireframe.gif)
 
 #### Visão do projeto
 
@@ -186,22 +186,23 @@ https://github.com/equipe-javali/API_3/assets/110677265/647cf17a-d783-4200-a996-
 
 #### Contribuições pessoais
 
-- Criação de endpoints e operações de CRUD.
-- Criação do banco de dados físico.
-- Integração do backend com o banco de dados.
+  No 2º semestre, fiz a maior parte do backend do projeto do meu grupo. Usamos Typescript e node.js, que foram definidos para o backend pelos professores. Conforme minhas pesquisas, decidi usar o ORM Prisma, que  considerei uma boa escolha pela praticidade que ele oferece na interação entre o backend e o banco de dados. Neste semestre, decidir desenvolver a base do backend novamente. Desta vez, o backend deveria ser desenvolvido em Java e o framework Spring. Trabalhar com Java foi um pouco mais difícil e trabalhoso, e só foi possível graças aos conhecimentos obtidos no semestre passado. Também foi interessante refazer a API de uma forma diferente e poder comparar seu desenvolvimento nessas 2 linguagens e frameworks. Minhas contribuições específicas foram, principalmente: a criação do banco de dados físico, a partir da modelagem que recebi; os endpoints e operações de CRUD; e a integração do backend com o banco de dados. 
+
+  Na primeira sprint, apesar de terminarmos as tarefas em cima da hora, o resultado foi satisfatório e a entrega foi adequada. Já na segunda sprint, o grupo enfrentou problemas e a entrega acabou sendo falha. Por isso, recebemos uma nota bem baixa. Assim, o grupo precisou reverter uma situação desfavorável no restante do semestre. Tivemos que nos reorganizar, aperfeiçoar o processo de trabalho, como o padrão de commits e a criação de branches, e trabalhar em equipe de forma mais cuidadosa para que o trabalho de uma pessoa não interferisse negativamente no de outra. O grupo inteiro preciso ser mais cuidadoso com a gestão do tempo. Com o aprimoramento da comunição e do processo de trabalho, foi possível fazer entregas satisfatórias na 3ª e 4ª sprint e concluir o projeto cumprindo os requisitos. 
 
 #### Aprendizado
+
+- Hard Skills:
+  - Uso da linguagem Java e framework Spring: sei fazer com relativa autonomia.
+  - Uso de banco de dados PosgreSQL e do Supabase (banco de dados Postgre on-line): sei fazer com autonomia.
+  - Melhora nos conhecimentos na criação de APIs (interface de programação de aplicações): sei fazer com autonomia.
+  - Metodologia Ágil SCRUM: sei fazer com autonomia.
 
 - Soft Skills:
   - Trabalho em equipe, gestão do tempo para lidar com demandas mais intensas.
   - Resiliência: devido a dificuldades em uma das sprints, tivemos que nos reorganizar solucionar os problemas e apresentar entregas satisfatórias dentro do cronograma.
   - Aprimoramento de processo no desenvolvimento do projeto: seguir um padrão na criação de branches e commits no Github.
   
-- Hard Skills:
-  - Uso da linguagem Java e framework Spring: sei fazer com ajuda.
-  - Uso de banco de dados PosgreSQL e do Supabase (banco de dados Postgre on-line): sei fazer com autonomia.
-  - Melhora nos conhecimentos na criação de APIs (interface de programação de aplicações): sei fazer com autonomia.
-  - Metodologia Ágil SCRUM: sei fazer com autonomia.
  
 <h6 align="center"> Link do projeto: https://github.com/equipe-javali/API_3</h6>
 
